@@ -1,0 +1,41 @@
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+.viagem_principaldiv{
+    border:1px solid lightgrey;
+}
+.viagem_principaldiv img{
+    width:100%;
+}
+.viagem_principaldiv h5 , .viagem_principaldiv p
+{
+    margin:20px;
+}
+.filmesHead
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filmesHead i
+{
+    float: right;
+}
+
+.ConquistasText span
+{
+
+color: orange;
+}
+.o que há de novo
+{
+    margin-bottom:20px;
+}
+#Fale_conosco iframe
+{
+    width:100%;
+}
